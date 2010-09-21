@@ -1,0 +1,12 @@
+*.o
+a.out
+tags
+HTML
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+*.so
+core
+*.a
+crc16
